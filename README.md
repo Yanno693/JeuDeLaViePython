@@ -10,12 +10,17 @@ Pour faire fonctionner ce programme, vous devez installer :
 
   - Python (Python3 de préférence)
   
- ## Démarrer
+## Démarrer
  
 Une fois Python installé sur votre machine, ouvrez un invité de commande et lancez la commande suivante :
 ```
 python "Jeu de la Vie.py"
 ```
+
+## Captures
+
+![Start](Captures/capture1.png)
+![Load](Captures/capture2.png)
 
 ### Lien utiles
 
